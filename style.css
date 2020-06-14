@@ -1,0 +1,69 @@
+
+.header {
+    background: red;
+    min-height: 100px;
+}
+
+.content {
+    background: green;
+    min-height: 250px;
+    width: 70%;
+    float: left;
+}
+
+.blog {
+     background: blue;
+    min-height: 250px;
+    width: 30%;
+    float: right;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.footer {
+    background: black;
+    min-height: 80px;
+}
+
+.box1 {
+    background: pink;
+    min-height: 300px;
+    width: 33.3%;
+        float: left;
+}
+
+.box2 {
+    background: orange;
+    min-height: 300px;
+    width: 33.4%;
+        float: left;
+}
+
+.box3 {
+    background: tomato;
+    min-height: 300px;
+    width: 33.3%;
+        float: left;
+}
+
+.middile {
+    overflow: hidden;
+}
+
+.media {
+    overflow: hidden;
+}
+
+.map {
+    float: left;
+}
+
+.video {
+    float: right;
+}
+
+.container {
+    margin-top: 50px;
+}
